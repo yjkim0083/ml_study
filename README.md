@@ -1,5 +1,6 @@
 # 밑바닥부터 시작하는 머신러닝 실습환경 구성
 ## Miniconda
+![](https://conda.io/docs/_images/conda_logo.svg)
 - [download - 공식사이트](https://conda.io/miniconda.html)
 - 다운받은 exe 파일 실행, 모든건 기본으로 설정하고 설치
 
@@ -85,7 +86,7 @@ Executing transaction: done
 ### 설치확인
 - python shell 에서 설치한 라이브러리들을 import 해본다
 
-```python
+```shell
 (ml_scratch) C:\Users\XXX>python
 Python 3.6.6 |Anaconda, Inc.| (default, Jun 28 2018, 11:27:44) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
