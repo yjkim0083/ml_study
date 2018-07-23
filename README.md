@@ -1,5 +1,3 @@
-# 밑바닥 부터 시작하는 머신러닝 강좌 정리
-
 # 밑바닥부터 시작하는 머신러닝 실습환경 구성
 ## Miniconda
 - [download - 공식사이트](https://conda.io/miniconda.html)
